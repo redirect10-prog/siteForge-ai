@@ -1,0 +1,13 @@
+project_id = "llawtuevdnnijpjskzhw"
+
+[functions.generate-website]
+verify_jwt = false
+
+[functions.generate-image]
+verify_jwt = false
+
+[functions.edit-website]
+verify_jwt = false
+
+[functions.generate-backend]
+verify_jwt = false
